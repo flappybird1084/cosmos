@@ -3,3 +3,5 @@ matplotlib
 ipywidgets
 scikit-learn
 tensorflow
+torch
+torchvision
