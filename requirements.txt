@@ -6,3 +6,5 @@ tensorflow
 torch
 torchvision
 umap-learn
+gdown
+seaborn
