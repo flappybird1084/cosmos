@@ -1,3 +1,5 @@
 env/
 mlp/content/
-imaege_classification/data/
+mlp/acllmdb/
+mlp/acllmdb_v1.tar.gz
+image_classification/data/
