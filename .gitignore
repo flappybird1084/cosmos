@@ -3,3 +3,4 @@ mlp/content/
 mlp/aclImdb/
 mlp/aclImdb_v1.tar.gz
 image_classification/data/
+cnn/data/
